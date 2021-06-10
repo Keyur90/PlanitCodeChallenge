@@ -1,0 +1,10 @@
+{
+    "experimentalSourceRewriting": false,
+    "chromeWebSecurity": false,
+    "video": true,
+    "screenshots": true,
+    "execTimeout": 10000,
+    "defaultCommandTimeout": 100000,
+    "experimentalStudio": true,
+    "baseUrl": "http://jupiter.cloud.planittesting.com/"
+}

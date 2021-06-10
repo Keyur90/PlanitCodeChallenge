@@ -1,0 +1,25 @@
+{
+  "product1": "Stuffed Frog",
+  "product2": "Fluffy Bunny",
+  "product3": "Valentine Bear",
+  "product4": "Funny Cow",
+  "quantity1": 2,
+  "quantity2": 5,
+  "quantity3": 3,
+  "quantity4": 1,
+  "products": [
+    "Stuffed Frog",
+    "Fluffy Bunny",
+    "Valentine Bear"
+  ],
+  "price": [
+    10.99,
+    9.99,
+    14.99
+  ],
+  "subTotal": [
+    21.98,
+    49.95,
+    44.97
+  ]
+}

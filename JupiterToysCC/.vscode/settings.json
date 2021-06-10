@@ -1,0 +1,45 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "cSpell.words": [
+    "Autorenew",
+    "AutorenewIcon",
+    "Ayam",
+    "Dialpad",
+    "DialpadIcon",
+    "MoreHoriz",
+    "MoreHorizIcon",
+    "Parens",
+    "SVGs",
+    "Stockcode",
+    "Vaalia",
+    "autoprefixer",
+    "browserslist",
+    "camelcase",
+    "clsx",
+    "codeframe",
+    "cssmodule",
+    "ecfk",
+    "legacywrapper",
+    "mflegacywrapper",
+    "mfpicking",
+    "newrf",
+    "nrwl",
+    "pmmmwh",
+    "polyfills",
+    "reduxjs",
+    "saas",
+    "svgr",
+    "tripsummary",
+    "trolleypicking",
+    "valtio",
+    "vars"
+  ],
+  "cSpell.language": "en-GB",
+  "cSpell.ignoreWords": [
+    "testdata"
+  ]
+}

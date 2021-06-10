@@ -8,13 +8,5 @@
 // https://on.cypress.io/plugins-guide
 // ***********************************************************
 module.exports = function (on, config) {
-  on("before:browser:launch", (browser = {}, launchOptions) => {
-    config.browsers.push({
-      name: "firefox",
-      family: "firefox",
-      path: "C:\\JupiterToysCC\\firefox.exe",
-    });
 
-    return config;
-  });
 };
